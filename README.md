@@ -38,6 +38,8 @@ Vercle : https://movielens-neon.vercel.app/
 
 ## 🔧 Installation & Setup
 
+npm run dev
+
 ###  Clone the repository
 ```bash
 git clone https://github.com/vikranth666/movieLens.git
